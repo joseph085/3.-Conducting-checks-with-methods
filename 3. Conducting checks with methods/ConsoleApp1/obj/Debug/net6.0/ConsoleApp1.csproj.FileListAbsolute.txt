@@ -13,3 +13,18 @@ C:\Users\yusif\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleAp
 C:\Users\yusif\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\yusif\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\yusif\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\yusif\Documents\GitHub\3.-Conducting-checks-with-methods\3. Conducting checks with methods\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
